@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Founded in 2011, Uni Light Studio is a production company based in Los Angeles. We are dedicated to creating beauty in commercial and experimental digital media. Our talent and interests range from film to CGI and 3D animation, and especially the synthesis of the two.  
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+We strive to make exciting, challenging, and practical products that blur the boundaries of art and technology. Our wide breadth of skills allow us to deliver new and engaging forms of media on time and on budget, no matter how large or complicated the project.
